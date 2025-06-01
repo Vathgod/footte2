@@ -27,7 +27,7 @@ export default function Home() {
 
         <section>
           <h3 className="text-xl font-semibold mb-2">📫 Contact</h3>
-          <p>Email: alex.rivera@example.comcccc</p>
+          <p>Email: alex.rivera@example.comcccc555</p>
           <p>GitHub: github.com/alex-rivera</p>
         </section>
       </div>
